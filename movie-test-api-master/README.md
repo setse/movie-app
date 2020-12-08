@@ -4,7 +4,7 @@ GraphQl API for gastromatic movie test
 
 ## Setup Without Docker
 
-Have a mongodb running at the usual `localhost:27017`. Then:
+API is already linked to MongoDB Atlas Cluster.
 
 ```
 npm ci

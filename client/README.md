@@ -11,7 +11,7 @@ npm run start
 
 Test running server by accessing `http://localhost:3000/`
 
-## Setup with Docker
+## Setup with Docker (Not tested)
 
 Docker and docker-compose need to be installed. To start the services run
 
