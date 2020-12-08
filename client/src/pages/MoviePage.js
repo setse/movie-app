@@ -20,6 +20,7 @@ const MoviePage = (props) => {
     onCompleted(deleteMovie) {
       Alert.fire("Deleted!");
       props.history.push("/mymovies");
+      window.location.reload(false);
     },
     onError(deleteMovie) {
       Alert.fire("Cant delete!", "", "error");
