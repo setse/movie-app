@@ -1,4 +1,4 @@
-# Install movieapp/client
+# Install movie-app/client
 
 Client for gastromatic movie test api
 
