@@ -16,7 +16,7 @@ Test running server by accessing `http://localhost:3000/`
 Docker and docker-compose need to be installed. To start the services run
 
 ```
-docker build -t client .
+docker build -t client
 docker run -it -p 8080:3000 client
 ```
 
